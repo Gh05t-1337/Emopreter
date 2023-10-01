@@ -1,7 +1,7 @@
 # Emopreter
 An "Interpreter" for a programming language that consists of emojis and must be written in Comic Sans MS
 # How to use it
-First, you need to have python installed. You can then run any one of the provided .odt files, by typing
+First, you need to have python installed. You can then run one of the provided .odt files, by typing
 ```bash
 python emopreter.py [NAME_OF_ODT_FILE]
 ```
